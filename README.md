@@ -1,0 +1,2 @@
+# Prerequisites 
+- Macbook ARM Chip
